@@ -1,6 +1,7 @@
 # 💫 About Me:
 I’m a passionate Cloud & DevOps Engineer in the making, currently pursuing B.Tech IT. I work on real-world projects involving AWS, DevOps pipelines, Terraform, Docker, Kubernetes, GitHub Actions, and modern web development.<br><br>I enjoy building scalable cloud architectures, automating workflows, and solving engineering problems through clean and efficient solutions. I'm also exploring AI/ML, backend development, and deploying production-ready applications.
 
+![Tech Coding GIF by Persona](https://github.com/user-attachments/assets/6c4dd280-4add-4cbe-95b7-682a89502ad4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_athithya.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athithyan-v/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athithyanv402@gmail.com) 
